@@ -1,0 +1,21 @@
+{
+    "name": "dark-cloud",
+    "displayName": "Dark Cloud",
+    "description": "Dark Theme for VS Code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Cloud Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Cloud Theme-color-theme.json"
+            }
+        ]
+    }
+}
